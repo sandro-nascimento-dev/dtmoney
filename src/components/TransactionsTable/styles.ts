@@ -29,7 +29,7 @@ table{
         color: var(--green);
       }
 
-      &.withdram{
+      &.withdraw{
         color: var(--red);
       }
     }
